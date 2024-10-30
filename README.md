@@ -38,5 +38,7 @@
 
 <!-- # STARDEV -->
   <a href="https://stardev.io/developers/rzkynaga"><img alt="Check out kizun's profile on stardev.io" src="https://stardev.io/developers/rzkynaga/badge/languages/locality.svg" /></a>
+  
+  ![Snake animation](https://github.com/rzkynaga/rzkynaga/blob/output/github-contribution-grid-snake.svg)
 
 </div>
