@@ -15,7 +15,7 @@
 <!-- ## SOCIAL -->
 <h3>Connect with me:</h3>
   <p align="center">
-    <a href="https://linkedin.com/rzkynaga">
+    <a href="https://www.linkedin.com/in/rzkynaga">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
     </a>
     <a href="https://facebook.com/rzkynagaa">
