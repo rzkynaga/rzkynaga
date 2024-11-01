@@ -6,7 +6,7 @@
 
 <!-- ## CARDS -->
   <a href="https://github.com/rzkynaga/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rzkynaga&theme=radical&rank_icon=github&border_color=2e4058" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rzkynaga&theme=radical&rank_icon=github&show=prs_merged_percentage&hide=issues,prs,contribs&border_color=2e4058" />
   </a>
   <a href="https://github.com/rzkynaga/convoychat">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkynaga&show_icons=true&theme=radical&border_color=2e4058&layout=compact" />
