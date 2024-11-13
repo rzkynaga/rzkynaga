@@ -27,7 +27,7 @@
     <a href="mailto:rzkynaga1@gmail.com?subject=Hi kijun!">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
     </a>
-    <a href="https://twitter.com/rzkynaga">
+    <a href="https://twitter.com/ikjoen">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" />
     </a>
     <a href="https://instagram.com/rzkynaga">
