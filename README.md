@@ -24,7 +24,7 @@
     <a href="https://github.com/rzkynaga">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
     </a>
-    <a href="mailto:rzkynaga1@gmail.com?subject=Hi kijun!">
+    <a href="mailto:rzkynaga1@gmail.com">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
     </a>
     <a href="https://twitter.com/ikjoen">
