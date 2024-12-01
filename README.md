@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- ## HEADER -->
-<h1>Mohammad Rizky S.</h1>
+<h1>Mohammad Rizky Sinaga</h1>
 <h3>an Information Systems student at Sriwijaya University</h3>
 
 <!-- ## CARDS -->
