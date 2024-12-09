@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender,figma,discord,notion,stackoverflow,sublime,vercel,visualstudio,vscode" />
     </a>
     <a>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,php,py,pycharm,typescript,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,php,py,typescript,react,bootstrap" />
     </a>
   </p>
 <!-- # STARDEV -->
