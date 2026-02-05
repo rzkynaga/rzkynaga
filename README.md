@@ -13,18 +13,18 @@ and effective project delivery.
 <!-- CONNECT -->
 <h3>Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/rzkynaga" style="text-decoration:none;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-  <a href="mailto:rzkynaga1@gmail.com" style="text-decoration:none;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/rzkynaga" style="text-decoration:none;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
-  </a>
-  <a href="https://instagram.com/rzkynaga" style="text-decoration:none;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
-  </a>
+<a href="https://www.linkedin.com/in/rzkynaga" style="text-decoration:none;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+</a><!--
+--><a href="mailto:rzkynaga1@gmail.com" style="text-decoration:none;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+</a><!--
+--><a href="https://github.com/rzkynaga" style="text-decoration:none;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+</a><!--
+--><a href="https://instagram.com/rzkynaga" style="text-decoration:none;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
+</a>
 </p>
 
 <!-- TOOLS -->
