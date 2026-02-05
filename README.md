@@ -10,14 +10,6 @@ I leverage IT knowledge as a supporting tool for structured decision-making
 and effective project delivery.
 </p>
 
-<!-- STATS -->
-<a href="https://github.com/rzkynaga">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rzkynaga&theme=radical&rank_icon=github&hide=issues,prs,contribs&border_color=2e4058" />
-</a>
-<a href="https://github.com/rzkynaga">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkynaga&theme=radical&layout=compact&border_color=2e4058" />
-</a>
-
 <!-- CONNECT -->
 <h3>Connect with me</h3>
 <p>
